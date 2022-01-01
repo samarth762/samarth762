@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![Samarth Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&theme=vue)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth762&layout=compact)](https://github.com/samarth762/github-readme-stats)
+[Samarth Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&theme=vue)
+
