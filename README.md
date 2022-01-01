@@ -1,4 +1,4 @@
-# Hi there :blush:
+# Hi there :wave:
 
 
 **samarth762/samarth762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
