@@ -1,4 +1,4 @@
-<h1 style="font-family:New Century Schoolbook, TeX Gyre Schola, serif;">:wave: Hello</h1>
+<div style="font-family:New Century Schoolbook, TeX Gyre Schola, serif;">:wave: Hello</div>
 
 
 **samarth762/samarth762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
