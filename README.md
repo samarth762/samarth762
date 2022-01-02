@@ -20,14 +20,16 @@ Here are some ideas to get you started:
 <h2> 💬 Contact Me </h2>
 
 <div align="center">
-<h2>🚦 Github Stats :: </h2>
-    
+<h2>🚦 Github Stats :: </h2>    
 [![](https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/samarth762)
-<br/>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=samarth762&theme=material-palenight)](https://github.com/samarth762)
 <br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth762&theme=material-palenight)](https://github.com/samarth762)
 </div>
 
+<br/>
+
+<div align="center">
 <h2> Trophies ::</h2>
-<p align="left"> <a href="https://github.com/samarth762/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth762" alt="samarth762" /></a> </p>
+[![](https://github-profile-trophy.vercel.app/?username=samarth762)](http://github.com/samarth762/github-profile-trophy)
+</div>
