@@ -4,6 +4,21 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+struct student{
+    char name[50];
+    char branch[50];
+    char college[50];
+    char comment[500];
+};
+
+int main(void){
+    struct student s;
+    s.name="samarth";
+    s.branch="cse";
+    s.college="pes university";
+    s.comment="interested in field of Data Science and Machine Learning";
+    return 0;
+}
 
 ```
  
