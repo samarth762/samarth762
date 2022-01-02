@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 
 <h2>👀 My github Stats</h2>
 <div>
-
-  
-  <p align="center">
+  <p align="left">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762" alt="GitHub Stats" /> <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
