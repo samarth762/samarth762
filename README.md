@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     
 <div align="left">
     <h2>🚦 Github Stats :: </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=darshil-geek&count_private=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=samarth762&count_private=true&theme=tokyonight" />
 </div>
 
 
