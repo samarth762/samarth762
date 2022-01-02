@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <p>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 </p>
-<div align="left">
+<!-- <div align="left">
     <h2> 💬 Connect with me :: </h2>
-<!--     <a href = "https://www.linkedin.com/in/samarthkumar121/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href = "https://www.linkedin.com/in/samarthkumar121/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href = "mailto:samarthkumar267@gmail.com?subject=From your Github Profile" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href = "https://twitter.com/samarth74926507" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /> </a> -->
-</div>
+    <a href = "https://twitter.com/samarth74926507" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /> </a>
+</div> -->
     
 <div align="left">
     <h2>🚦 Github Stats :: </h2>    
