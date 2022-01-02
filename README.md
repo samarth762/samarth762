@@ -27,9 +27,4 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth762&theme=material-palenight)](https://github.com/samarth762)
 </div>
 
-<br/>
 
-<!-- <div align="center">
-<h2> Trophies ::</h2>
-[![](https://github-profile-trophy.vercel.app/?username=samarth762)](http://github.com/samarth762/github-profile-trophy)
-</div> -->
