@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div> -->
 
 <h2>👀 My github Stats</h2>
-[![Samarth ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=samarth762&custom_title=Samarth%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=white&hide_border=true&line=d1a01f&point=c58545)]
+![Samarth ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=samarth762&custom_title=Samarth%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=white&hide_border=true&line=d1a01f&point=c58545)
 
 <div>
   <p align="left">
