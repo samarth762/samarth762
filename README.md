@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋, I'm Samarth  🙂 </h1>
  
 
-<h2> 🛠 Languages, Tools and Frameworks </h2>
+<h2> 🛠 Stack I work with </h2>
 <p align="center">
 <a href=""><img alt="" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
