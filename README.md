@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 <div align="center">
 <h2>🚦 Github Stats :: </h2>
     
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=samarth762&custom_title=Samarth%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=white&hide_border=true&line=d1a01f&point=c58545" /> -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762" />
-<img src="https://github-readme-stats.vercel.app/api username=samarth762&show_icons=true&include_all_commits=true />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth762&layout=compact" />
+[![](https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/samarth762)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=samarth762&theme=material-palenight)](https://github.com/samarth762)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth762&layout=compact)](https://github.com/samarth762)
 </div>
 
 <h2> Trophies ::</h2>
