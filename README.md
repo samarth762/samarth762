@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 <h2>🚦 Github Stats :: </h2>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=samarth762&custom_title=Samarth%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=white&hide_border=true&line=d1a01f&point=c58545" /> -->
 
-<div>
-  <p align="left">
+
+ <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762" alt="GitHub Stats" /> <br/>
-</div>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&include_all_commits=true)
 <br>
