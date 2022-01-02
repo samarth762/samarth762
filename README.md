@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <br>
 <h2> Trophies ::</h2>
 <p align="left"> <a href="https://github.com/samarth762/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth762" alt="samarth762" /></a> </p>
-<div>
+</div>
