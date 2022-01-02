@@ -14,17 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<br><br>
+<!-- <br><br>
 <div>
 <h2> Mine Statistical Data ::</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarth762&show_icons=true&locale=en&layout=compact" alt="samarth762" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&locale=en" alt="samarth762" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762&" alt="samarth762" /></p>
+</div> -->
+
+<h2>👀 My github Stats</h2>
+<div>
+
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762" alt="GitHub Stats" /> <br/><br/>
+  
 </div>
 
-<br>
-<div>
-<br>
+![My github status](https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth762&layout=compact)
+
 <h2> Trophies ::</h2>
 <p align="left"> <a href="https://github.com/samarth762/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth762" alt="samarth762" /></a> </p>
-</div>
