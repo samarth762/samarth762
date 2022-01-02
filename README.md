@@ -1,9 +1,4 @@
-<div style="font-family:New Century Schoolbook, TeX Gyre Schola, serif;">:wave: Hello</div>
-
-
-**samarth762/samarth762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="left">Hello 👋, I'm Samarth  🙂 </h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
