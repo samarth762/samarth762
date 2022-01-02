@@ -48,14 +48,10 @@ Here are some ideas to get you started:
 </div>
     
 <div align="left">
-    <h2>🚦 Github Stats :: </h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil-geek&theme=tokyonight" />
-
- <img src="https://github-readme-stats.vercel.app/api?username=samarth762&count_private=true&theme=tokyonight" />
- 
-  
- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil-geek&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
- 
+<h2>🚦 Github Stats :: </h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=samarth762&count_private=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth762&layout=compact&show_icons=true&theme=tokyonight" />
 </div>
 
 
