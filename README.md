@@ -46,9 +46,6 @@
  <h2>Trophy :: </h2> 
 <a href="https://github.com/samarth762/github-profile-trophy" title="Go to Source">
 <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=samarth762&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /></a>
-<div><br/><br/></div>
-<hr>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samarth762&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
  
 
