@@ -44,12 +44,12 @@ Here are some ideas to get you started:
     <a href = "https://www.linkedin.com/in/samarthkumar121/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href = "mailto:samarthkumar267@gmail.com?subject=From your Github Profile" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href = "https://twitter.com/samarth74926507" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /> </a>
-    <a href = "https://darshil-geek.github.io/website/instagram_sucks/index.html" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <a href = "https://darshil-geek.github.io/website/instagram_sucks/index.html" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </div>
     
 <div align="left">
     <h2>🚦 Github Stats :: </h2>
-    [![](https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/samarth762)
+<img src="https://github-readme-stats.vercel.app/api?username=darshil-geek&count_private=true&theme=tokyonight" />
 </div>
 
 
