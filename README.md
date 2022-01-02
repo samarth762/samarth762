@@ -24,8 +24,8 @@ Here are some ideas to get you started:
     
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=samarth762&custom_title=Samarth%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=white&hide_border=true&line=d1a01f&point=c58545" /> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762" alt="GitHub Stats" /> 
-![My github status](https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&include_all_commits=true)
+![]("https://github-readme-streak-stats.herokuapp.com/?user=samarth762" alt="GitHub Stats")
+![Samarth's Github status](https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&include_all_commits=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth762&layout=compact)
 </div>
