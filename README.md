@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 </div>
     
 <div align="left">
-    <h2>🚦 Github Stats :: </h2> 
-    ![Darshil Shah's Github stats](https://github-readme-stats.vercel.app/api?username=samarth762&count_private=true&theme=tokyonight)
+    <h2>🚦 Github Stats :: </h2>
+    [![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
 </div>
 
 
