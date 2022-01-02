@@ -19,16 +19,18 @@ Here are some ideas to get you started:
 </p>
 <h2> 💬 Contact Me </h2>
 
+<div align="center">
 <h2>🚦 Github Stats :: </h2>
+    
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=samarth762&custom_title=Samarth%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=white&hide_border=true&line=d1a01f&point=c58545" /> -->
 
-
- <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762" alt="GitHub Stats" /> <br/>
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762" alt="GitHub Stats" /> <br/></p>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&include_all_commits=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth762&layout=compact)
+</div>
 
 <h2> Trophies ::</h2>
 <p align="left"> <a href="https://github.com/samarth762/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth762" alt="samarth762" /></a> </p>
