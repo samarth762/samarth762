@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2> Mine Statistical Data ::</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarth762&show_icons=true&locale=en&layout=compact" alt="samarth762" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&locale=en" alt="samarth762" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&" alt="samarth762" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762&" alt="samarth762" /></p>
 </div>
 
 <br>
