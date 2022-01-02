@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <p>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 </p>
+
 <div align="left">
     <h2> 💬 Connect with me :: </h2>
     <a href = "https://www.linkedin.com/in/samarthkumar121/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
