@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 <h2> Trophies ::</h2>
 [![](https://github-profile-trophy.vercel.app/?username=samarth762)](http://github.com/samarth762/github-profile-trophy)
-</div>
+</div> -->
