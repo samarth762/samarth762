@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<h2> Languages and Tools: </h2>
+<h2> 🛠 Tech Stack </h2>
 <p>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 </p>
+<h2> 💬 Contact Me </h2>
 
-
-<h2>👀 Github Stats :: </h2>
+<h2>🚦 Github Stats :: </h2>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=samarth762&custom_title=Samarth%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=white&hide_border=true&line=d1a01f&point=c58545" /> -->
 
 <div>
