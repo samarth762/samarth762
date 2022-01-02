@@ -1,13 +1,6 @@
 <h1 align="left">Hello 👋, I'm Samarth  🙂 </h1>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <h2> 🛠 Languages, Tools and Frameworks </h2>
 <p>
 <a href=""><img alt="" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -48,7 +41,16 @@
 <img src="https://github-readme-stats.vercel.app/api?username=samarth762&count_private=true&theme=vue" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth762&layout=compact&show_icons=true&theme=vue" />
 </div>
+<br/><br/>
 
+ <h2>Trophy :: </h2> 
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DHANOLA&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /></a>
+<br/>
+
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DHANOLA&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+ 
 
 
 
