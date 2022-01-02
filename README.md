@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <p align="left">
   <b><em>GitHub Stats:</em></b> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762" alt="GitHub Stats" /> <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth762" alt="GitHub Stats" /> <br/>
 </div>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=samarth762&show_icons=true&include_all_commits=true)
